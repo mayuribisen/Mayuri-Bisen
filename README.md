@@ -1,20 +1,10 @@
-<!-- <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2000&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Hii+I'm+Mayuri+Bisen" alt="Typing Animation" />
-</p>  -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2000&pause=800&color=9B59B6&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hii,+I'm+Mayuri+Bisen;A+Passionate+Frontend+Developer+%F0%9F%92%BB;I+Love+Building+Clean+and+Responsive+Websites+%F0%9F%8C%90;Currently+Learning+JavaScript+and+React+%F0%9F%A7%A0;Let's+Code+Something+Amazing+Together+%F0%9F%9A%80" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2000&pause=800&color=9B59B6&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hii,+I'm+Mayuri+Bisen;A+Passionate+Frontend+Developer+%F0%9F%92%BB;I+Love+Building+Clean+and+Responsive+Websites+%F0%9F%8C%90;Currently+Learning+JavaScript+and+React+%F0%9F%A7%A0;Let's+Code+Something+Amazing+Together+%F0%9F%9A%80" alt="Typing Animation" />
 </p>
-
-
-
-<!-- <p align="center">
-<img src="https://readme-typing-svg.demolab.com?
-font=Poppins&weight=600&size=28&duration=2000&pause=800&color=9B59B6&center=true&vCenter=true&width=600&lines=+Hii,+I'm+Mayuri+Bisen;A+Passionate+Frontend+Developer+💻;I+Love+Building+Clean+and+Responsive+Websites+🌐;Currently+Learning+JavaScript+and+React+🧠;Exploring+React+Native+and+Modern+Web+Technologies+⚛️" alt="Typing Animation" />
-</p>  -->
-
+<hr style="width:60%;margin:auto;border:1px solid #9B59B6;">
 
 <h3 align="center">A passionate Web developer from India</h3>
-<!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayuribisen&label=Profile%20views&color=0e75b6&style=flat" alt="mayuribisen" /> </p>
 
 - I’m currently learning **Advanced Java, Python, AI, Big Data**
