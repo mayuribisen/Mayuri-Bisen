@@ -3,9 +3,7 @@
 </p>
 <hr style="width:60%;margin:auto;border:1px solid #9B59B6;"> 
 
-<h3 align="center">A passionate Web developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayuribisen&label=Profile%20views&color=0e75b6&style=flat" alt="mayuribisen" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayuribisen&label=Profile%20views&color=0e75b6&style=flat" alt="mayuribisen" /> </p> -->
 
 - I’m currently learning **Advanced Java, Python, AI, Big Data**
 
