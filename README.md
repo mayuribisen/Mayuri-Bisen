@@ -1,6 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Mayuri+Bisen;Web+Developer+from+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Mayuri+Bisen;A+Passionate+Web+Developer+from+India" alt="Typing SVG" />
 </h1>
+
+
 
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
