@@ -1,6 +1,7 @@
-<h1 align="center">Hi , I am Mayuri Bisen
-  
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=800&color=F72585&center=true&vCenter=true&width=435&lines=👋+Hii;I+am;Mayuri+Bisen+💻" alt="Typing Animation" />
+</p>
+
 
 
 
