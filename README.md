@@ -55,7 +55,7 @@ I’m always exploring new technologies, improving my coding skills, and contrib
 
 <hr style="width:60%;margin:auto;border:1px solid #9B59B6;">  -->
 
-<h3 align="center">📊 GitHub Stats:</h3>
+<h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayuribisen&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api?username=mayuribisen&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="165"/>
