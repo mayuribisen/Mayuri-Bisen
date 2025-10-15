@@ -1,5 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Mayuri+Bisen;A+Passionate+Web+Developer+from+India" alt="Typing SVG" />
+<h1 align="center">Hi , I am Mayuri Bisen
+  
 </h1>
 
 
@@ -8,11 +8,11 @@
 <!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayuribisen&label=Profile%20views&color=0e75b6&style=flat" alt="mayuribisen" /> </p>
 
-- 🌱 I’m currently learning **Advanced Java, Python, AI, Big Data**
+- I’m currently learning **Advanced Java, Python, AI, Big Data**
 
-- 📫 How to reach me **mayuribisen2002@gmail.com**
+- How to reach me **mayuribisen2002@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1qHoaDMokGMJ3m3BcJtnC9U-wbY76RrAF/edit?usp=sharing&ouid=113937128197692667623&rtpof=true&sd=true](https://docs.google.com/document/d/1qHoaDMokGMJ3m3BcJtnC9U-wbY76RrAF/edit?usp=sharing&ouid=113937128197692667623&rtpof=true&sd=true)
+- Know about my experiences [https://docs.google.com/document/d/1qHoaDMokGMJ3m3BcJtnC9U-wbY76RrAF/edit?usp=sharing&ouid=113937128197692667623&rtpof=true&sd=true](https://docs.google.com/document/d/1qHoaDMokGMJ3m3BcJtnC9U-wbY76RrAF/edit?usp=sharing&ouid=113937128197692667623&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
