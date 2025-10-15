@@ -29,8 +29,7 @@ I’m always exploring new technologies, improving my coding skills, and contrib
 <a href="https://linkedin.com/in/mayuri-bisen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayuri-bisen" height="30" width="40" /></a>
 <a href="https://instagram.com/_mayuri_bisen_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mayuri_bisen_" height="30" width="40" /></a>
 </p>
-
-
+<hr style="width:60%;margin:auto;border:1px solid #9B59B6;"> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayuribisen&show_icons=true&locale=en&layout=compact" alt="mayuribisen" /></p>
 
