@@ -2,10 +2,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2000&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Hii+I'm+Mayuri+Bisen" alt="Typing Animation" />
 </p>  -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2000&pause=800&color=9B59B6&center=true&vCenter=true&width=600&lines=Hii,+I'm+Mayuri+Bisen;A+Passionate+Frontend+Developer;
-I+Love+Building+Clean+and+Responsive+Websites;Currently+Learning+JavaScript+and+React;Exploring+Modern+Web+Technologies;Let's+Code+Something+Amazing+Together!" alt="Typing Animation" />
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2000&pause=800&color=9B59B6&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hii,+I'm+Mayuri+Bisen;A+Passionate+Frontend+Developer+%F0%9F%92%BB;I+Love+Building+Clean+and+Responsive+Websites+%F0%9F%8C%90;Currently+Learning+JavaScript+and+React+%F0%9F%A7%A0;Let's+Code+Something+Amazing+Together+%F0%9F%9A%80" alt="Typing Animation" />
 </p>
+
 <!-- <p align="center">
 <img src="https://readme-typing-svg.demolab.com?
 font=Poppins&weight=600&size=28&duration=2000&pause=800&color=9B59B6&center=true&vCenter=true&width=600&lines=+Hii,+I'm+Mayuri+Bisen;A+Passionate+Frontend+Developer+💻;I+Love+Building+Clean+and+Responsive+Websites+🌐;Currently+Learning+JavaScript+and+React+🧠;Exploring+React+Native+and+Modern+Web+Technologies+⚛️" alt="Typing Animation" />
