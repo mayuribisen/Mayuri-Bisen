@@ -20,7 +20,6 @@ I’m always exploring new technologies, improving my coding skills, and contrib
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/cpp/)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
 <hr style="width:60%;margin:auto;border:1px solid #9B59B6;"> 
 
 <h3 align="left">Connect with me:</h3>
