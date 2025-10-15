@@ -1,7 +1,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2000&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines
-    =Hii+👋+I+am+Mayuri+Bisen;
-    Mayuri+Bisen" alt="Typing Animation" />
+    =👋 Hii, I'm Mayuri Bisen;
+      A Passionate Frontend Developer 💻;
+      I Love Building Clean and Responsive Websites 🌐;
+      Currently Learning Javascript and React 🧠;
+      Exploring React Native and Modern Web Technologies ⚛️;
+      Let's Code Something Amazing Together 🚀;
+    alt="Typing Animation" />
 </p>
 
 
