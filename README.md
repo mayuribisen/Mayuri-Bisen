@@ -61,9 +61,7 @@ I’m always exploring new technologies, improving my coding skills, and contrib
   <img src="https://github-readme-stats.vercel.app/api?username=mayuribisen&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mayuribisen&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
+
 
 
 
