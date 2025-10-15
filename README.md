@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayuribisen&label=Profile%20views&color=0e75b6&style=flat" alt="mayuribisen" /> </p> -->
 <h3 align="left"> 🌟About Me: </h3>
-Hi, I’m Mayuri Madhusudan Bisen, a passionate Frontend Developer currently working at Orangebits Software Technologies (India) Pvt. Ltd. 
+Hi, I’m Mayuri Madhusudan Bisen, a passionate Frontend Developer currently working at Orangebits Software Technologies (India) Pvt. Ltd. Company Nagpur. 
 I love building clean, responsive, and user-friendly web applications using HTML, CSS, JavaScript, and React.js.
 I’m always exploring new technologies, improving my coding skills, and contributing to projects that make a real impact.
 
