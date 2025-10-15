@@ -1,5 +1,7 @@
+<h1 align="center" style="color:#9B59B6; font-family: 'Trebuchet MS', sans-serif;">
+  Hi 👋, I'm <span style="color:#1ABC9C;">Mayuri Bisen</span>
+</h1>
 
-<h1 align="center" style="color:red" >Hi 👋, I'm Mayuri Bisen</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayuribisen&label=Profile%20views&color=0e75b6&style=flat" alt="mayuribisen" /> </p>
