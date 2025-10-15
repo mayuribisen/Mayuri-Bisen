@@ -8,7 +8,7 @@
 Hi, I’m Mayuri Madhusudan Bisen, a passionate Frontend Developer currently working at Orangebits Software Technologies (India) Pvt. Ltd. Company Nagpur. 
 I love building clean, responsive, and user-friendly web applications using HTML, CSS, JavaScript, and React.js.
 I’m always exploring new technologies, improving my coding skills, and contributing to projects that make a real impact.
-
+<hr style="width:60%;margin:auto;border:1px solid #9B59B6;"> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
