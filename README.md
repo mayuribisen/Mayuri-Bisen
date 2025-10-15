@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2000&pause=800&color=9B59B6&center=true&vCenter=true&width=600&lines=👋+Hii,+I'm+Mayuri+Bisen;A+Passionate+Frontend+Developer+💻;I+Love+Building+Clean+and+Responsive+Websites+🌐;Currently+Learning+JavaScript+and+React+🧠;Exploring+React+Native+and+Modern+Web+Technologies+⚛️;Let's+Code+Something+Amazing+Together+🚀" alt="Typing Animation" />
 </p>
 
+
 <h3 align="center">A passionate Web developer from India</h3>
 <!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayuribisen&label=Profile%20views&color=0e75b6&style=flat" alt="mayuribisen" /> </p>
