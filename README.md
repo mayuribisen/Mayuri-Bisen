@@ -44,19 +44,19 @@ I’m always exploring new technologies, improving my coding skills, and contrib
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
 </p>
-
  
 <hr style="width:60%;margin:auto;border:1px solid #9B59B6;"> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mayuri-bisen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayuri-bisen" height="30" width="40" /></a>
 
-</p>
-<hr style="width:60%;margin:auto;border:1px solid #9B59B6;"> 
-
+<h3 align="left">Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayuribisen&show_icons=true&locale=en&layout=compact" alt="mayuribisen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayuribisen&show_icons=true&locale=en" alt="mayuribisen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuribisen&" alt="mayuribisen" /></p>
+<hr style="width:60%;margin:auto;border:1px solid #9B59B6;"> 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mayuri-bisen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayuri-bisen" height="30" width="40" /></a>
+</p>
+<hr style="width:60%;margin:auto;border:1px solid #9B59B6;"> 
