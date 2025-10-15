@@ -1,5 +1,5 @@
-<h1 align="center" style="color:#9B59B6; font-family: 'Trebuchet MS', sans-serif;">
-  Hi 👋, I'm <span style="color:#1ABC9C;">Mayuri Bisen</span>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Mayuri+Bisen;Web+Developer+from+India" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A passionate Web developer from India</h3>
