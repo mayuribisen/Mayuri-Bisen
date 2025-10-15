@@ -1,7 +1,14 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=9B59B6&center=true&vCenter=true&width=800&lines=👋+Hii,+I'm+Mayuri+Bisen;A+Passionate+Frontend+Developer+💻;I+Love+Building+Clean+and+Responsive+Websites+🌐;Currently+Learning+JavaScript+and+React+🧠;Let's+Code+Something+Amazing+Together+🚀" alt="Typing Animation" />
+</p>
+
+<hr style="width:70%;margin:auto;height:3px;border:none;background:linear-gradient(to right,#9B59B6,#f39c12,#9B59B6);border-radius:5px;">
+
+
+<!-- <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2000&pause=800&color=9B59B6&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hii,+I'm+Mayuri+Bisen;A+Passionate+Frontend+Developer+%F0%9F%92%BB;I+Love+Building+Clean+and+Responsive+Websites+%F0%9F%8C%90;Currently+Learning+JavaScript+and+React+%F0%9F%A7%A0;Let's+Code+Something+Amazing+Together+%F0%9F%9A%80" alt="Typing Animation" />
 </p>
-<hr style="width:60%;margin:auto;border:1px solid #9B59B6;">
+<hr style="width:60%;margin:auto;border:1px solid #9B59B6;"> -->
 
 <h3 align="center">A passionate Web developer from India</h3>
 
