@@ -4,12 +4,11 @@
 <hr style="width:60%;margin:auto;border:1px solid #9B59B6;"> 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayuribisen&label=Profile%20views&color=0e75b6&style=flat" alt="mayuribisen" /> </p> -->
-<h3 align="left">**About Me :** </h3>
-- I’m currently learning **Advanced Java, Python, AI, Big Data**
+<h3 align="left"> 🌟About Me: </h3>
+Hi, I’m Mayuri Madhusudan Bisen, a passionate Frontend Developer currently working at Orangebits. I love building clean, responsive, and user-friendly web applications using HTML, CSS, JavaScript, and React.js.
 
-- How to reach me **mayuribisen2002@gmail.com**
+I’m always exploring new technologies, improving my coding skills, and contributing to projects that make a real impact.
 
-- Know about my experiences [https://docs.google.com/document/d/1qHoaDMokGMJ3m3BcJtnC9U-wbY76RrAF/edit?usp=sharing&ouid=113937128197692667623&rtpof=true&sd=true](https://docs.google.com/document/d/1qHoaDMokGMJ3m3BcJtnC9U-wbY76RrAF/edit?usp=sharing&ouid=113937128197692667623&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
