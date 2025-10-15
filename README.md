@@ -62,7 +62,7 @@ I’m always exploring new technologies, improving my coding skills, and contrib
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayuribisen&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayuribisen&" alt="GitHub Streak"/>
 </p>
 
 <hr style="width:60%;margin:auto;border:1px solid #9B59B6;">
