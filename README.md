@@ -4,7 +4,7 @@
 </p>
 <!-- <hr style="width:60%;margin:auto;border:1px solid #9B59B6;">  -->
 <p align="center">
-  <img src="https://github.com/mayuribisen/mayuribisen/blob/main/banner-rounded.png" alt="Banner" width="100%">
+  <img src="https://github.com/mayuribisen/Mayuri-Bisen/blob/main/Banner.png" alt="Banner" width="100%">
 </p>
 
 
