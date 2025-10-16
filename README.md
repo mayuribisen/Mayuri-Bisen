@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mayuribisen/mayuribisen/blob/main/banner.png" alt="Mayuri Bisen | Frontend Developer" width="100%" />
+  <img src="https://github.com/mayuribisen/Mayuri-Bisen/blob/main/Banner.png" alt="Mayuri Bisen | Frontend Developer" width="100%" />
 </p>
 
 <p align="center">
