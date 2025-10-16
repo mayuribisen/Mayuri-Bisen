@@ -4,7 +4,7 @@
 </p>
 <!-- <hr style="width:60%;margin:auto;border:1px solid #9B59B6;">  -->
 <p align="center">
-  <img src="https://github.com/mayuribisen/Mayuri-Bisen/blob/main/Banner.png" alt="Mayuri Bisen | Frontend Developer" width="100%" />
+  <img src="https://github.com/mayuribisen/Mayuri-Bisen/blob/main/Banner.png" alt="Mayuri Bisen | Frontend Developer" width="100%" style="border-radius: 20px;" />
 </p>
 
 <h3 align="left"> 🌟About Me: </h3>
