@@ -77,5 +77,4 @@ I’m always exploring new technologies, improving my coding skills, and contrib
 <h3 align="left">📈 Profile Views</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mayuribisen&label=Profile%20views&color=0e75b6&style=flat" alt="mayuribisen" /> </p> 
 
-<hr style="width:60%;margin:auto;border:1px solid #9B59B6;"> 
 
