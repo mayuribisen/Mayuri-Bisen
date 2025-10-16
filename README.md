@@ -67,6 +67,10 @@ I’m always exploring new technologies, improving my coding skills, and contrib
   <a href="https://mayuribisen.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%239B59B6.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
+   &nbsp;&nbsp;
+  <a href="https://example.com/Mayuri_Bisen_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-%23FF5733.svg?&style=for-the-badge&logo=adobeacrobat&logoColor=white" alt="Resume"/>
+  </a>
 </p>
 
 <hr style="width:60%;margin:auto;border:1px solid #9B59B6;"> 
