@@ -2,8 +2,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2000&pause=800&color=9B59B6&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hii,+I'm+Mayuri+Bisen;A+Passionate+Frontend+Developer+%F0%9F%92%BB;I+Love+Building+Clean+and+Responsive+Websites+%F0%9F%8C%90;Currently+Learning+JavaScript+and+React+%F0%9F%A7%A0;Let's+Code+Something+Amazing+Together+%F0%9F%9A%80" alt="Typing Animation" />
 </p>
 <hr style="width:60%;margin:auto;border:1px solid #9B59B6;"> 
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayuribisen&label=Profile%20views&color=0e75b6&style=flat" alt="mayuribisen" /> </p> -->
 <h3 align="left"> 🌟About Me: </h3>
 Hi, I’m Mayuri Madhusudan Bisen, a passionate Frontend Developer currently working at Orangebits Software Technologies (India) Pvt. Ltd. Company Nagpur. 
 I love building clean, responsive, and user-friendly web applications using HTML, CSS, JavaScript, and React.js.
@@ -47,13 +45,6 @@ I’m always exploring new technologies, improving my coding skills, and contrib
  
 <hr style="width:60%;margin:auto;border:1px solid #9B59B6;"> 
 
-
-<!-- <h3 align="left">Github Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayuribisen&show_icons=true&locale=en&layout=compact" alt="mayuribisen" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayuribisen&show_icons=true&locale=en" alt="mayuribisen" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuribisen&" alt="mayuribisen" /></p>
-<hr style="width:60%;margin:auto;border:1px solid #9B59B6;">  -->
-
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=mayuribisen&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="165"/> 
@@ -62,8 +53,19 @@ I’m always exploring new technologies, improving my coding skills, and contrib
 </p>
 <hr style="width:60%;margin:auto;border:1px solid #9B59B6;">
 <h3 align="left"> 🌐 Connect With Me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mayuri-bisen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayuri-bisen" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/mayuri-bisen" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://mayuribisen.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%239B59B6.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 <hr style="width:60%;margin:auto;border:1px solid #9B59B6;"> 
+<h3 align="left">📈 Profile Views</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayuribisen&label=Profile%20views&color=0e75b6&style=flat" alt="mayuribisen" /> </p> 
+
+<hr style="width:60%;margin:auto;border:1px solid #9B59B6;"> 
+
