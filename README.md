@@ -4,8 +4,9 @@
 </p>
 <!-- <hr style="width:60%;margin:auto;border:1px solid #9B59B6;">  -->
 <p align="center">
-  <img src="https://github.com/mayuribisen/Mayuri-Bisen/blob/main/Banner.png" alt="Mayuri Bisen | Frontend Developer" width="100%" style="border-radius: 20px;" />
+  <img src="https://github.com/mayuribisen/mayuribisen/blob/main/banner-rounded.png" alt="Banner" width="100%">
 </p>
+
 
 <h3 align="left"> 🌟About Me: </h3>
 Hi, I’m Mayuri Madhusudan Bisen, a passionate Frontend Developer currently working at Orangebits Software Technologies (India) Pvt. Ltd. Company Nagpur. 
